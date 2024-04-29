@@ -1,0 +1,35 @@
+
+    =w
+ java/lang/Object<init>()V java/lang/IllegalStateException
+Cannot be instantiated
+ 
+(Ljava/lang/String;)VName,makeConcatWithConstants'(Ljava/lang/String;I)Ljava/lang/String;&(Ljava/lang/String;)Ljava/lang/String; java/util/Random
+
+nextGaussian()D@$@R 
+#$ %&'java/lang/Mathfloor(D)D +java/io/File-   Marks.csv
+* 0java/io/FileWriter
+/
+*345
+createNewFile()Z
+/78
+write
+/:;close =java/io/IOException  ?@ ABCjava/lang/SystemoutLjava/io/PrintStream;EFailed to write to file.
+GH IJ
+java/io/PrintStreamprintLM(F)Ljava/lang/String;
+GOP
+ printlnR
+Done. TMarksCodeLineNumberTablemain([Ljava/lang/String;)V
+StackMapTable [java/lang/String ][Ljava/lang/String;
+SourceFile
+Marks.javaBootstrapMethodsb
+cd ef$java/lang/invoke/StringConcatFactory (Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite;h
+Assignment,j
+l
+Student,n,p
+Mark Average: 
+InnerClasses s%java/lang/invoke/MethodHandles$Lookup ujava/lang/invoke/MethodHandlesLookup0SU**   Y    V
+ WXU 
+ L=  + L    + L Y M>6666   U, k c " 6`> + (L + )L  + L6   6     l 8  *Y, .: /Y, 1:  2W + 6    9 
+: >D F >  K N >+ N >Q N    <V &')*), /(5*6-70839=:>;I:O=T>Y?b@eBnCuD|E G I 9 L P Q S T U X V W Z ] ` aYC    Z   \ Z  .   0 \ Z  <    ^_` agaiakamaoq
+rtv
+
